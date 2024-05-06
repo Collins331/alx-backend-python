@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-    
 """
 Importing the wait_random from the
 0-basic_async_syntax module
